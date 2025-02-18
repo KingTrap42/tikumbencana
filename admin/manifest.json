@@ -1,0 +1,22 @@
+{
+    "name": "Tikum Evakuasi Bencana",
+    "start_url": "http://localhost/tikum/admin/index.php",
+    "display": "standalone",
+    "theme_color": "#f8fcfa",
+    "description" : "Aplikasi PWA untuk informasi titik lokasi evakuasi bencana.",
+    "background_color": "#f8fcfa",
+        "icons": [
+        {
+            "src": "http://localhost/tikum/assets/img/tikum1.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        
+        {
+            "src": "http://localhost/tikum/assets/img/tikum2.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose" : "maskable"
+        }
+    ]
+}
